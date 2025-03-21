@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/ZxcMimis/homeworkseven/issues"
   },
-  "homepage": "https://github.com/ZxcMimis/homeworkseven#readme",
+  "homepage": "https://zxcmimis.github.io/homeworkseven/",
   "devDependencies": {
     "@parcel/transformer-inline-string": "^2.14.1",
     "parcel": "^2.14.1"
