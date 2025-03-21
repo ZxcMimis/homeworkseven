@@ -1,0 +1,28 @@
+{
+  "name": "homeworkseven",
+  "version": "1.0.0",
+  "description": "213",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZxcMimis/homeworkseven.git"
+  },
+  "keywords": [],
+  "author": "zerowaste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZxcMimis/homeworkseven/issues"
+  },
+  "homepage": "https://github.com/ZxcMimis/homeworkseven#readme",
+  "devDependencies": {
+    "parcel": "^2.14.1"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
